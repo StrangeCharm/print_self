@@ -1,1 +1,1 @@
-print open("print_slef.py","r").read()
+print open("print_self.py","r").read()
