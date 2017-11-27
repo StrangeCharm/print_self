@@ -1,1 +1,1 @@
-more print_self.sh
+cat print_self.sh
