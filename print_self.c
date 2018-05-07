@@ -2,7 +2,7 @@
 
 int main()
 {
-    int c;
+    char c;
     FILE *file;
     file = fopen("print_self.c", "r");
     if (file)
